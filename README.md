@@ -1,4 +1,4 @@
-# 👋 Welcome to Quantum Teknologi Nusantara (QTN) Developers!
+# 👋 Welcome to QTN Developers!
 
 ## 🚀 About Us
 **Quantum Teknologi Nusantara (QTN)** is an Indonesian technology company specializing in **low-code development** and **artificial intelligence (AI) solutions**. We help organizations build mission-critical systems faster and smarter by integrating **low-code platforms with AI**. Our solutions drive digital transformation across industries worldwide, including **Fortune 500 companies**.
