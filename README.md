@@ -65,7 +65,6 @@ Our team uses **modern technologies** to create powerful solutions:
 ---
 
 ## 📫 Connect With Us
-📧 **Email:** [dev@quantumteknologi.com](mailto:dev@quantumteknologi.com)  
 🌐 **Website:** [quantumteknologi.com](https://quantumteknologi.com)  
 🔗 **LinkedIn:** [Quantum Teknologi Nusantara](https://www.linkedin.com/company/quantum-teknologi-nusantara)  
 
